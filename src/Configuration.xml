@@ -183,6 +183,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Role>ПолныеПрава</Role>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
