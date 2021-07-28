@@ -183,8 +183,6 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Role>ПолныеПрава</Role>
-			<CommonModule>ОбщегоНазначения</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
